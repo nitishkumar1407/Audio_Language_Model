@@ -1,6 +1,6 @@
 # 🎧 Audio Language Model (ALM)
 
-![ALM Banner](AL.png)
+
 
 **Audio Language Model (ALM)** is an advanced AI-powered system designed to **understand, analyze, and reason over audio conversations**.
 It integrates **speech recognition, speaker diarization, audio event detection, and semantic reasoning** into a unified multimodal audio intelligence pipeline.
@@ -59,6 +59,8 @@ Interactive Dashboard (Frontend)
 ---
 
 # 🖥 Dashboard Interface
+
+![ALM Banner](Dashboard.png)
 
 The ALM dashboard provides an intuitive interface for analyzing audio intelligence.
 
