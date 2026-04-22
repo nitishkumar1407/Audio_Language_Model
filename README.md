@@ -59,11 +59,11 @@ Audio Chunker (pydub + ffmpeg)
 ```
 ---
 
-# 🖥 Dashboard Interface
+# 🖥 Dashboard 
 
 ![ALM Banner](Dashboard.png)
 
-The ALM dashboard provides an intuitive interface for analyzing audio intelligence.
+The ALM dashboard provides an interactive interface for analyzing audio intelligence.
 
 ###  Home
 
