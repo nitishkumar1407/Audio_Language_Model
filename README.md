@@ -161,17 +161,6 @@ index.html
 
 ---
 
-#  Example Use Cases
-
-* Meeting transcription and summarization
-* Podcast and media analysis
-* Customer support call analytics
-* Audio surveillance and monitoring
-* Speech emotion analysis
-* Conversational AI systems
-
----
-
 #  Future Improvements
 
 * Real-time streaming audio processing
@@ -196,9 +185,4 @@ Steps to contribute:
 
 ---
 
-#  License
-
-This project is licensed under the **MIT License**.
-
----
 
