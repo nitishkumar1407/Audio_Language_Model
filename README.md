@@ -104,7 +104,7 @@ Audio_Language_Model/
 
 #  Technologies Used
 
-## AI / Machine Learning
+## AI/ML
 
 * Whisper / WhisperX — Speech Recognition
 * Pyannote — Speaker Diarization
@@ -113,11 +113,8 @@ Audio_Language_Model/
 
 ## Frontend
 
-* HTML5
-* TailwindCSS
-* WaveSurfer.js
-* Chart.js
-* Lucide Icons
+* HTML
+* CSS
 
 ## Backend
 
