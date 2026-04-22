@@ -9,31 +9,32 @@ The system provides an **interactive dashboard** where users can upload audio fi
 
 ---
 
-# 🚀 Features
+#  Features
 
-🔊 **Audio Upload & Visualization**
+ **Audio Upload & Visualization :**
 Upload audio files and preview them with an interactive waveform visualizer.
 
-📝 **Speech-to-Text Transcription**
+ **Speech-to-Text Transcription :**
 Convert audio recordings into accurate textual transcripts.
 
-🧑‍🤝‍🧑 **Speaker Diarization**
+ **Speaker Diarization :**
 Identify and separate multiple speakers within an audio conversation.
 
-📊 **Speaker Analytics Dashboard**
+ **Speaker Analytics Dashboard :**
 Visualize speaker distribution and conversation patterns.
 
-❓ **Audio Question Answering (Q&A)**
+  **Emotion & Paralinguistic Analysis :**
+Analyze vocal cues such as tone, pitch, energy, and emotion to understand speaker sentiment and conversational context.
+
+
+ **Audio Question Answering (Q&A) :**
 Ask contextual questions about the uploaded audio.
 
-🎛 **Interactive AI Dashboard**
-Modern responsive interface powered by TailwindCSS.
-
-⚡ **Real-Time Audio Processing Pipeline**
+ **Real-Time Audio Processing Pipeline**
 
 ---
 
-# 🧠 System Architecture
+#  System Architecture
 
 ```
 Audio Input
@@ -64,13 +65,13 @@ Interactive Dashboard (Frontend)
 
 The ALM dashboard provides an intuitive interface for analyzing audio intelligence.
 
-### 🏠 Home
+###  Home
 
 * Upload audio files
 * Preview waveform
 * Play or pause audio
 
-### 📝 Transcription
+###  Transcription
 
 * Generate transcripts from audio
 * Display speaker-separated dialogue
@@ -81,7 +82,7 @@ The ALM dashboard provides an intuitive interface for analyzing audio intelligen
 * Ask questions about audio content
 * Get AI-generated contextual answers
 
-### 📊 Speaker Analysis
+###  Speaker Analysis
 
 * Visualize speaker participation
 * Display conversation distribution charts
@@ -101,7 +102,7 @@ Audio_Language_Model/
 
 ---
 
-# ⚙️ Technologies Used
+#  Technologies Used
 
 ## AI / Machine Learning
 
@@ -126,7 +127,7 @@ Audio_Language_Model/
 
 ---
 
-# 🛠 Installation
+#  Installation
 
 Clone the repository:
 
@@ -145,7 +146,7 @@ Run the backend notebook or server.
 
 ---
 
-# ▶️ Usage
+#  Usage
 
 1️⃣ Start the backend audio processing pipeline.
 
@@ -163,7 +164,7 @@ index.html
 
 ---
 
-# 📊 Example Use Cases
+#  Example Use Cases
 
 * Meeting transcription and summarization
 * Podcast and media analysis
@@ -174,7 +175,7 @@ index.html
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 * Real-time streaming audio processing
 * Multilingual speech understanding
@@ -184,7 +185,7 @@ index.html
 
 ---
 
-# 🤝 Contribution
+#  Contribution
 
 Contributions are welcome!
 
@@ -198,7 +199,7 @@ Steps to contribute:
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the **MIT License**.
 
