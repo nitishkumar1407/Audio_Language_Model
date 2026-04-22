@@ -37,26 +37,26 @@ Ask contextual questions about the uploaded audio.
 #  System Architecture
 
 ```
-Audio Input
-     │
-     ▼
-Audio Processing Pipeline
-     │
-     ├── Speech Recognition (Whisper / WhisperX)
-     ├── Speaker Diarization (Pyannote)
-     ├── Audio Event Detection
-     ├── Paralinguistic Analysis (Emotion / Tone)
-     │
-     ▼
-Multimodal Fusion Engine
-     │
-     ▼
-Contextual Reasoning Layer
-     │
-     ▼
-Interactive Dashboard (Frontend)
+Audio Stream
+    │
+    ▼
+Audio Chunker (pydub + ffmpeg)
+    │
+    ▼
+    ├──► ASR Processor        
+    ├──► Diarization          
+    ├──► Emotion              
+    └──► Event Detection      
+              │
+              ▼
+         Fusion Engine        (Confidence-Weighted Multimodal Fusion)
+              │
+              ▼
+         Reasoner             
+              │
+              ▼
+    Context-Aware Summary
 ```
-
 ---
 
 # 🖥 Dashboard Interface
